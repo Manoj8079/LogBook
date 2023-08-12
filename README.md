@@ -13,11 +13,6 @@ Employees at businesses and technical institutes set aside a significant amount 
 ### Login Page
 ![Login Page](./README%20Images/loginpage.png)
 
-### Admin Dashboard
-![Admin Dashboard](./README%20Images/admindashboard.png)
-
-### Add Employee Modal
-![Add Employee Modal](./README%20Images/addemployeemodal.png)
 
 ### Employee Delete
 ![Employee Delete](./README%20Images/employeedelete.png)
