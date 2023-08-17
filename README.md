@@ -27,8 +27,7 @@ Employees at businesses and technical institutes set aside a significant amount 
 
 ![Employee Dashboard](./README%20Images/employeedashboard-2.png)
 
-### Edit Profile Modal
-![Edit Profile Modal](./README%20Images/editprofilemodal.png)
+
 
 ### Add Task
 ![Add Task](./README%20Images/addtask.png)
